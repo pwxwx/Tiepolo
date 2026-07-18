@@ -37,6 +37,7 @@
 GLSL（OpenGL Shading Language）を用いて、元の色から変換後の色を計算する独自のプログラムを組み込めます。手描きでは困難な精密なグラデーションや幾何学パターンの生成など、テクスチャ作成を強力にサポート。アイデア次第で、オリジナルの画像編集エフェクトやフィルターを自作することも可能です。
 
 <img width="1116" height="847" alt="image" src="https://github.com/user-attachments/assets/894e4319-d513-4199-bf42-f57f83cae1bf" />
+<img width="1131" height="855" alt="image" src="https://github.com/user-attachments/assets/f864ce70-6f4d-4901-aaec-35365de674db" />
 
 
 #### 表示色を変えられるカラープレビューとキャリブレーション
